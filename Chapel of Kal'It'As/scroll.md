@@ -4,7 +4,7 @@
 | Medium | Original Copy, Written |
 | Original Language | A. Elvish |
 
-In emergancy use this scroll.
+In emergency use this scroll.
 
 |||
 |-|-|
