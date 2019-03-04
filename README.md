@@ -1,6 +1,6 @@
 # Westmarches Library of Exotic Texts
 
-The library is a small two floor building in the water district. It's
+The library is a small two floor building in the western district. It's
 bottom floor serves as a public space and its top (accessed through a
 staircase at the back) is private living quarters. The bottom floor
 looks like a simple room with sparse shelves and texts with
